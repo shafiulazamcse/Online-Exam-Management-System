@@ -33,9 +33,23 @@ You can set department wise question:
 View Student Ranks:
 
 
-You see shere all kind of students results and ranks as well.
+You see shere all kind of students results and ranks as well:
 
 
 ![image](https://github.com/user-attachments/assets/6e5d71c7-c8f9-46c3-b16a-5e9ec212f883)
+
+You can see all studets details:
+![image](https://github.com/user-attachments/assets/269e689e-0274-4c9b-bd0e-137bdba066d8)
+
+
+**Create Users:**
+
+You can add admin and user from admin panel:
+![image](https://github.com/user-attachments/assets/5b66373e-7577-4557-afa5-ea1f934f56d2)
+
+You can select role: (Admin & Students)
+![image](https://github.com/user-attachments/assets/ba4aa78e-87f3-44d1-8664-9ad409b751f8)
+And also you can select department:
+![image](https://github.com/user-attachments/assets/5859a63d-adb3-4626-aaff-c30f4560c09a)
 
 
