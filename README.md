@@ -69,3 +69,12 @@ And also you can select department:
 
 
 
+Student can submit exam:
+
+![image](https://github.com/user-attachments/assets/adb228d4-0600-4ce3-975c-dc787cc38010)
+
+
+![image](https://github.com/user-attachments/assets/2ac15de1-8307-427e-9bd0-be5cb56a8cdb)
+
+
+![image](https://github.com/user-attachments/assets/373cbf1a-193a-4746-9b94-1151b13231ea)
