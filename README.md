@@ -48,6 +48,8 @@ You can see all studets details:
 **Create Users:**
 
 You can add admin and user from admin panel:
+
+
 ![image](https://github.com/user-attachments/assets/5b66373e-7577-4557-afa5-ea1f934f56d2)
 
 
@@ -55,7 +57,10 @@ You can add admin and user from admin panel:
 You can select role (Admin & Students):
 
 
+
 ![image](https://github.com/user-attachments/assets/ba4aa78e-87f3-44d1-8664-9ad409b751f8)
+
+
 
 And also you can select department:
 
