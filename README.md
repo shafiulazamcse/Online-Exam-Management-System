@@ -21,11 +21,14 @@ Add Question:
 
 ![image](https://github.com/user-attachments/assets/7752ae13-fddc-40d0-95f7-05242aa0cf8f)
 
+
 Choose the correct ans for result:
 
 ![image](https://github.com/user-attachments/assets/4bca473f-bda7-4e59-a439-b39847f421bf)
 
+
 You can set department wise question:
+
 
 ![image](https://github.com/user-attachments/assets/dac05af1-459d-4fd5-8ed4-d2a0696e15b2)
 
@@ -48,11 +51,14 @@ You can add admin and user from admin panel:
 ![image](https://github.com/user-attachments/assets/5b66373e-7577-4557-afa5-ea1f934f56d2)
 
 
+
 You can select role (Admin & Students):
+
 
 ![image](https://github.com/user-attachments/assets/ba4aa78e-87f3-44d1-8664-9ad409b751f8)
 
 And also you can select department:
+
 
 ![image](https://github.com/user-attachments/assets/a05ce6ed-95b7-4c2c-98dd-c3367b57081f)
 
