@@ -5,7 +5,7 @@ Here you can login here 2 types Admin and Students:
 
 
 
-**Admin Login>**
+**Admin Login:**
 ![image](https://github.com/user-attachments/assets/6cb199e1-d399-4082-bdba-473f7114f377)
 ![image](https://github.com/user-attachments/assets/c7a8c141-1cc3-4e2e-8542-24ecf446e3a2)
 ![image](https://github.com/user-attachments/assets/10e2643c-ca5e-4d25-9d7a-25f26d9cda5c)
